@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338418836374",
+    "firebase_url": "https://ajoy-kumar-b2af2-default-rtdb.firebaseio.com",
+    "project_id": "ajoy-kumar-b2af2",
+    "storage_bucket": "ajoy-kumar-b2af2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338418836374:android:0554d5f761aadb3f4a73b7",
+        "android_client_info": {
+          "package_name": "Com.Elite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338418836374-d0h5up1p0l8mvfc94hcpkr6ka7ohrqgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLe_qvXPXILTBs6DkEfFntA0wyI1cGKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338418836374-d0h5up1p0l8mvfc94hcpkr6ka7ohrqgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ELITE TWO",
+  "description": "Free Fire Esports Tournament Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
